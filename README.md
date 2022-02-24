@@ -8,4 +8,3 @@
 - 📫 How to reach me: hans.sagita@gmail.com
 - 😄 Pronouns: Hans
 - ⚡ Fun fact: live in Jakarta, Indonesia.
-- 🕸 https://hanssagita.com/
