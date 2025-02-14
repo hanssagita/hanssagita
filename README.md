@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Hans Sagita Soegiarto</h1>
+<h1 align="center">Hi 👋, I'm Hans Soegiarto</h1>
 <h3 align="center">Senior Software Engineer at GoTo Financial</h3>
 
 - 🔭 I’m currently working on **GoTo Financial**
 
-- 🌱 I’m currently learning **Java, Spring Framework, Kotlin**
+- 🌱 I’m currently learning **AI, AI, AI**
 
-- 💬 Ask me about **React, Vue, Typescript, Tailwind**
+- 💬 Ask me about **React, Typescript, Tailwind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hanssagita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanssagita" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hanssagita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanssagita" height="30" width="40" /></a>
-<a href="https://instagram.com/hanssagita.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanssagita.js" height="30" width="40" /></a>
+<a href="https://instagram.com/hans.hype" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hans.hype" height="30" width="40" /></a>
 <a href="https://medium.com/hanssagita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hanssagita" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hanssagita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hanssagita" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
