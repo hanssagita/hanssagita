@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm Hans Soegiarto</h1>
-<h3 align="center">Senior Software Engineer at GoTo Financial</h3>
+<div align="center">
+  <h1>Hi there, I'm Hans Soegiarto 👋</h1>
+  
+  <a href="https://github.com/hanssagita">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Senior+Software+Engineer+@+GoTo+Financial;Crafting+Modern+Web+Applications;Exploring+Generative+AI+%26+LLMs;React,+TypeScript,+Tailwind+Enthusiast" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on **GoTo Financial**
+  <p>
+    <a href="https://linkedin.com/in/hanssagita" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/hanssagita" target="_blank">
+      <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://medium.com/hanssagita" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://instagram.com/hans.hype" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+</div>
 
-- 🌱 I’m currently learning **AI, AI, AI**
+---
 
-- 💬 Ask me about **React, Typescript, Tailwind**
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hanssagita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanssagita" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hanssagita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanssagita" height="30" width="40" /></a>
-<a href="https://instagram.com/hans.hype" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hans.hype" height="30" width="40" /></a>
-<a href="https://medium.com/hanssagita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hanssagita" height="30" width="40" /></a>
-</p>
+I specialize in building scalable, high-performance web applications and am currently diving deep into the intersection of frontend engineering and Artificial Intelligence. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🚀 **Building at:** GoTo Financial, shaping seamless digital finance experiences.
+- 🧠 **Currently obsessed with:** Generative AI, Large Language Models (LLMs), and AI integration strategies.
+- 💡 **Stack of choice:** React, TypeScript, and Tailwind CSS.
+- 🤝 **Let's talk about:** Frontend architecture, AI-assisted engineering, and web performance.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanssagita&show_icons=true&locale=en&layout=compact" alt="hanssagita" /></p>
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,redux,vue,nodejs,express,jest,css,html&perline=11" alt="My Skills" />
+  </a>
+  <br />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanssagita&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=8b949e&icon_color=38bdf8&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanssagita&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=8b949e&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
