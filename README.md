@@ -45,10 +45,3 @@ I specialize in building scalable, high-performance web applications and am curr
 </div>
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanssagita&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=8b949e&icon_color=38bdf8&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanssagita&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=8b949e&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
